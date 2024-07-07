@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Conta2
+comment1.params=nome1\ numero1
+comment1.target=Conta2(java.lang.String,\ int)
+comment2.params=
+comment2.target=java.lang.String\ getNome1()
+comment3.params=
+comment3.target=int\ getNumero1()
+comment4.params=
+comment4.target=double\ getSaldo1()
+comment5.params=valor1
+comment5.target=void\ depositar1(double)
+comment6.params=valor1
+comment6.target=void\ sacar1(double)
+numComments=7
